@@ -4,4 +4,8 @@ Meu nome é Luiz Felipe,
 
   - Estou estudando na [Alura](https://alura.com.br).
 
-  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos nos cursos.
+
+  - Sou professor de biologia, química e ciências. Sou fascinado pelo mundo natural.
+
+  - Caí de gaiato na Tecnologia e estamos aí! 😉

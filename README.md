@@ -6,6 +6,6 @@ Meu nome é Luiz Felipe,
 
   - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos nos cursos.
 
-  - Sou professor de biologia, química e ciências. Sou fascinado pelo mundo natural.
+  - Sou professor de biologia, química e ciências. Fascinado pelo mundo natural!
 
   - Caí de gaiato na Tecnologia e estamos aí! 😉
